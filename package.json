@@ -1,0 +1,15 @@
+{
+  "name": "Drone Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+ 
+  "author": "RodionGromo",
+  "devDependencies": {
+    "electron": "^4.1.3",
+    "electron-packager": "^13.1.1"
+  }
+}
